@@ -1,16 +1,25 @@
-## Hi there 👋
+## 💜 Olá, meu nome é {Nathalya Medaglia}!
+Olá,me chamo <b>Nathalya Medaglia<b>
+sou estudante do senac de americna/sp curso multimidia.
 
-<!--
-**nathalyamedalha/nathalyamedalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 ja tenho uma certa facilidade para mecher no github figma photoshop,iilustretor é o afetereffects,
+estou aprendendo mais sobre HTML e logo mais CSS.
 
-Here are some ideas to get you started:
+💬 Espero evoluir cada vez mais e quem sabe fazer projetos profissionalmente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Minhas Skills
+
+<code><img src="https://skillicons.dev/icons?i=photoshop" height="50" alt="photoshop logo" />
+<code><img src="https://skillicons.dev/icons?i=illustrator" height="50" alt="illustrator logo" />
+<code><img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
+<code><img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
+ <code><img src="https://skillicons.dev/icons?i=ae" height="50" alt="afetereffescts logo" />
+  <code><img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
+  <code><img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathalyamedalha&show_icons=true&theme=jolly)</code>
