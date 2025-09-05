@@ -11,13 +11,13 @@ estou aprendendo mais sobre HTML e logo mais CSS.
 
 ## 🚀 Minhas Skills
 <div align="center" style="display: inline_block">
-<code><img src="https://skillicons.dev/icons?i=photoshop" height="50" alt="photoshop logo" />
-<code><img src="https://skillicons.dev/icons?i=illustrator" height="50" alt="illustrator logo" />
-<code><img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
-<code><img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
- <code><img src="https://skillicons.dev/icons?i=ae" height="50" alt="afetereffescts logo" />
-  <code><img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
-  <code><img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
+<img src="https://skillicons.dev/icons?i=photoshop" height="50" alt="photoshop logo" />
+<img src="https://skillicons.dev/icons?i=illustrator" height="50" alt="illustrator logo" />
+<img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
+<img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
+ <img src="https://skillicons.dev/icons?i=ae" height="50" alt="afetereffescts logo" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
   </div>
 ---
 
